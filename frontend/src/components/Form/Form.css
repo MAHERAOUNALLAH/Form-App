@@ -1,0 +1,100 @@
+*{
+    background-color: #e4ebb0;
+}
+
+.container{
+    width : 640px ; 
+    margin :auto ;
+    margin-top: 140px;
+    background-color: rgba(75, 126, 143, 0.822);
+    color : #575e24;
+    display : flex;
+    flex-direction :column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px 50px ;
+
+
+    border: 2px solid #00ffcc;
+    box-shadow: 
+        0 0 10px #07dd35,
+        0 0 20px #00ffcc,
+        0 0 40px #00ffcc,
+        0 0 80px #050de3;
+
+
+    
+}
+
+.container hr {
+    height : 2px;
+    border : none ;
+    background : #707070 ; 
+
+}
+.container h2 {
+    color: #00ffff; 
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: rgba(75, 126, 143, 0);
+    
+  
+    
+    text-shadow:
+      0 0 5px #47e114,
+      0 0 10px #8bbf08,
+      0 0 20px #ff4800,
+      0 0 40px rgb(255, 119, 0);
+  
+   
+  }
+  
+.container button {
+    margin : auto ; 
+    width: 250px ;
+    height : 65px ; 
+    background : #553f9a;
+    color : #fff; 
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor : pointer;
+
+}
+.container input {
+    margin : auto ; 
+    width: 400px ;
+    height : 65px ; 
+    background : #f8f7f9;
+    color : rgb(19, 1, 1); 
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor : pointer;
+
+
+
+}
+.container p{
+    margin : auto ; 
+    
+    
+    background : #8a7abb;
+    color : #fff; 
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+
+}
+form {
+    margin: 0;
+    background-color: rgba(75, 126, 143, 0);
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+  }
+  

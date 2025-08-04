@@ -21,7 +21,7 @@ Built with ❤️ using **React (Vite)**, **Node.js (Express)**, and **PostgreSQ
 
 > _Simple. Elegant. Efficient._
 
-![Form Preview](./preview.png) <!-- Replace with actual screenshot path -->
+https://maheraounallah.github.io/Form-App/
 
 ---
 

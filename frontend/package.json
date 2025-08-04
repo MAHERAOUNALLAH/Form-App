@@ -1,7 +1,7 @@
 {
   "name": "form",
   "private": true,
-  "homepage":"https://maheraounallah.github.io/Form-App/frontend" ,
+  "homepage":"https://maheraounallah.github.io/Form-App" ,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
